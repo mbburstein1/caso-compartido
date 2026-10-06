@@ -4,7 +4,7 @@ research: product/research/2026-09-16-0115-colaboracion-en-vivo-fuera-de-teams.m
 beliefs: 1, 2 (product/overview.md) + reenmarque alternativo "recuperar lo acordado"
 previous: product/surveys/2026-09-22-2105-colaboracion-en-vivo-fuera-de-teams.md (rediseñada desde cero; la anterior se conserva sin cambios)
 date: 2026-09-22
-status:
+status: voided
 ---
 
 # Encuesta: trabajar en vivo sobre un tablero en reuniones de Teams, y qué pasa con lo acordado
