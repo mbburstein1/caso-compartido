@@ -2,7 +2,7 @@
 opportunity: decisiones-que-no-sobreviven-la-reunion
 status: testing-several
 chosen: cierre-de-reunion, decisiones-extraidas-ia
-tests:
+tests: product/tests/2026-10-06-2100-decisiones-que-no-sobreviven-la-reunion.md
 ---
 
 # Soluciones para: lo decidido en la reunión no sobrevive hasta la ejecución
@@ -55,8 +55,10 @@ Se eligen para probar **A1 y A2 en paralelo** (`testing-several`). Lo decidió M
 
 ## Para probar
 
-- **A1** — "Los Team Leads sostienen el cierre de ≤2 min en la mayoría de sus reuniones de más de 5 durante 4 semanas, y en esas reuniones bajan las decisiones ejecutadas distinto". Es la que la mata porque la evidencia ya muestra el cierre informal escapándose (Sofía). Si ni con el ritual explícito se sostiene o no mueve la pérdida, el mecanismo no alivia el dolor. Se diseña en `/design-solution-tests`.
-- **A2** — "Una lista de decisiones propuesta por IA la confirma el grupo en ≤2 min con pocas correcciones, y se lee, a diferencia del recap". Es la que la mata porque el sustituto (el recap) ya existe y falla justo en precisión y lectura (insight 2; el recap que nadie leyó, R-025). Si la versión confirmada repite esas fallas, A2 es un recap más. Se diseña en `/design-solution-tests`.
+Diseñado en `product/tests/2026-10-06-2100-decisiones-que-no-sobreviven-la-reunion.md` (status: designed):
+
+- **A1** — T1 (`concierge`, [value]): creencia 11, el cierre confirmado reduce las decisiones perdidas a 14 días. Siguiente paso si pasa: creencia 10, que los líderes lo sostengan solos.
+- **A2** — T2 (`technical-test`, [value]): creencia 12, parte de precisión. La IA separa decisión de idea y asigna responsable contra una respuesta correcta real. Siguiente paso si pasa: Wizard of Oz para la confirmación en ≤2 min y la lectura (creencias 12 y 13).
 
 ## Propuesta de valor: A1 `cierre-de-reunion`
 

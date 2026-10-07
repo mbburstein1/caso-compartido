@@ -1,0 +1,4 @@
+id_transcripcion,serie,lider,tipo_mundo,origen,fecha_reunion,n_participantes,duracion_min,consentimiento_grupo,anonimizada_revisada,con_observadora,conjunto,procedencia,copilot_disponible,notas
+TR01,S1,(código),pizarra|sistema,t1-base|t1-cierre|pool-encuesta,AAAA-MM-DD,6,45,si|no,si|no,si|no,ajuste|reservada,real|stand-in,si|no,
+#PROMPT,version_o_hash=,modelo=,temperatura=,fecha_congelado=,,,,,,,,,,
+#SORTEO,semilla=,fecha=,,,,,,,,,,,,

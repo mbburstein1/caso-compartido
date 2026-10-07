@@ -1,0 +1,2 @@
+id_transcripcion,conjunto,sistema,id_item_sistema,id_item_clave,tipo_sistema,tipo_clave,responsable_sistema,responsable_clave,fecha_correcta,puntuador,notas
+TR01,ajuste|reservada,ia|copilot,IA-01|(vacío si es una fila agregar),TR01-K01|(vacío si no empareja),decision|tarea|idea|(vacío),decision|tarea|idea|excluido|(vacío),S1-P03|sin_responsable,S1-P03|sin_responsable,si|no|na,(código),

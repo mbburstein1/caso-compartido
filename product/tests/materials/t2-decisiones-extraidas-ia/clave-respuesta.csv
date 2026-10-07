@@ -1,0 +1,2 @@
+id_transcripcion,id_item_clave,minuto,texto,tipo_lider,tipo_observadora,responsable_lider,responsable_observadora,tipo_final,responsable_final,fecha_final,acuerdo,notas
+TR01,TR01-K01,00:41:10,Se va con la opción B para el onboarding,decision|tarea|idea,decision|tarea|idea,S1-P03|sin_responsable,S1-P03|sin_responsable,decision|tarea|idea|excluido,S1-P03|sin_responsable,AAAA-MM-DD|jueves|sin_fecha|excluida,directo|discutido|sin_acuerdo,

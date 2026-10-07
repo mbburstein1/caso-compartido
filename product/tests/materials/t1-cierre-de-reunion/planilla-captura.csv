@@ -1,0 +1,2 @@
+id_decision,serie,lider,tipo_mundo,n_reunion,tipo_reunion,origen,fecha_reunion,decision_texto,responsable,fecha_compromiso,sin_dueno,fecha_seguimiento,estado_lider,estado_responsable,estado_final,una_sola_fuente,perdida,notas
+S1-R1-D1,S1,(código),pizarra|sistema,1,base|cierre,observada|confirmada|ambas,AAAA-MM-DD,,,,si|no,AAAA-MM-DD,como_se_decidio|distinto|tarde|no_se_hizo|no_se,como_se_decidio|distinto|tarde|no_se_hizo|no_se,como_se_decidio|distinto|tarde|no_se_hizo|sin_dato,si|no,si|no|sin_dato,
