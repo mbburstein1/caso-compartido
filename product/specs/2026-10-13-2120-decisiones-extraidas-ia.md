@@ -5,6 +5,7 @@ solutions: product/solutions/2026-10-06-2055-decisiones-que-no-sobreviven-la-reu
 tests: product/tests/2026-10-06-2100-decisiones-que-no-sobreviven-la-reunion.md
 status: draft — escrito antes de correr T2 (ver «Probado antes del spec»)
 critique: product/insights/2026-10-20-2115-critique-decisiones-extraidas-ia.md (synthetic, 2026-10-20)
+exposure-plan: product/exposure-plans/2026-10-20-2125-decisiones-extraidas-ia.md
 ---
 
 > **Revisión 2026-10-20, tras la crítica de personas.** Cambios: (1) la lista confirmada vive también fuera de la instancia de la reunión; (2) se agrega una historia para TI; (3) se agregan casos borde de atribución del responsable y el aviso de que no se lee el tablero; (4) se recorta la historia «Corregir después», que el panel no sostuvo. **Decisión sobre externos** (confirmada por Marcelo el 2026-10-20): el envío a externos queda **apagado por defecto** y lo habilita TI; cuando está habilitado, a un externo no se le asigna nada sin que lo acepte. La crítica es `synthetic`: estos cambios responden a riesgos señalados, no a evidencia nueva.
